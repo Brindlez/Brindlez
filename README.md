@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**Brindlez/Brindlez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm kitchen/Brindlez
+##I'm a developer, I can program mainly in
+* Lua
+* Node.js
+* JS
+<br>
+##But I'm currently learning and have some decent knowledge in
+* HTML
+* CSS
+* C#
+##I have barely any experience in C++/C but I'm planning on learning it
