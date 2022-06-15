@@ -3,7 +3,7 @@
 * Lua
 * Node.js
 * JS
-<br>
+
 ## But I'm currently learning and have some decent knowledge in
 * HTML
 * CSS
